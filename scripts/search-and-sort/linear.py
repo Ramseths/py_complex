@@ -2,6 +2,7 @@ import random
 
 def linear_search(input_list, target):
     
+    # Indicador
     match = False
     
     for element in input_list:
